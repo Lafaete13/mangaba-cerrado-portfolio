@@ -31,9 +31,17 @@ Como parte da equipe de tecnologia e engenharia de dados da Empresa Júnior, atu
 
 ## 🚀 Tecnologias e Conceitos Utilizados
 
-* **Banco de Dados:** SQL [se usaram Oracle ou SQLite/Postgres no app, você pode ajustar aqui]
-* **Linguagens:** Python [insira outra linguagem se o app foi feito em Flutter, Java, C#, etc.]
-* **Conceitos de Engenharia:** Engenharia de Processos, Normalização (1FN, 2FN, 3FN), Integridade Referencial, Governança de Metadados e Catalogação.
+### **Stack Tecnológica**
+* **Dart (25.3%) & HTML (25.3%):** Base do desenvolvimento da aplicação e interface do usuário;
+* **C++ (18.2%) & CMake (14.5%):** Utilizados na infraestrutura nativa e performance do ecossistema;
+* **CSS (12.0%):** Estilização avançada dos componentes visuais;
+* **Ruby (2.0%):** Scripts de automação e gerenciamento de dependências de ambiente.
+
+### **Conceitos de Engenharia de Dados Aplicados**
+* Engenharia de Processos;
+* Normalização de Bancos de Dados Relacionais;
+* Garantia de Integridade Referencial;
+* Governança de Metadados e Catalogação.
 
 ---
 
