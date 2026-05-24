@@ -1,11 +1,5 @@
 # 🌳 Mangaba Cerrado: Aplicativo Educacional para Registro da Flora Local
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Publicado_em_Artigo-green?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-Oracle-00758F?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL">
-</p>
-
 ## 📄 Sobre o Projeto e Artigo Científico
 
 O **Mangaba Cerrado** é um projeto de impacto ambiental e educacional desenvolvido no âmbito da Empresa Júnior do **Instituto Federal de Brasília (IFB)**. O objetivo principal do aplicativo é catalogar e mapear espécies da flora local do bioma Cerrado, promovendo a conscientização ecológica e a preservação ambiental de forma interativa.
